@@ -33,3 +33,26 @@ h4 {
 .post h2 a:visited {
     color: #000000;
 }
+#logout {
+    font-family: 'Lobster', cursive;
+}
+
+small a,
+small a:hover,
+small a:visited {
+    font-size: 15pt;
+    color: #ffffff;
+    text-decoration: none;
+}
+.logout-button {
+    border: none;
+    background: none;
+    color: #ffffff;
+    font-family: 'Lobster', cursive;
+    font-size: 15pt;
+    cursor: pointer;
+    padding: 0;
+}
+.comment {
+    margin: 20px 0 20px 20px;
+}
